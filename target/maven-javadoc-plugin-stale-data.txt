@@ -1,0 +1,26 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-15.0.2\bin\javadoc.exe" @options @packages"
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\allclasses-index.html = 1621431290611
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\allpackages-index.html = 1621431290614
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\constant-values.html = 1621431290367
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\deprecated-list.html = 1621431290547
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\element-list = 1621431290286
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\help-doc.html = 1621431290623
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\index-all.html = 1621431290601
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\index.html = 1621431290554
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\jquery-ui.overrides.css = 1621431290917
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\member-search-index.js = 1621431290597
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\module-search-index.js = 1621431290595
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\options = 1621431288534
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\overview-summary.html = 1621431290618
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\overview-tree.html = 1621431290535
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\package-search-index.js = 1621431290595
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\packages = 1621431288534
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\script.js = 1621431290672
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\search.js = 1621431290696
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\serialized-form.html = 1621431290425
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\stylesheet.css = 1621431290643
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\tag-search-index.js = 1621431290598
+D:\Info An 2\Semestrul 2\FIS\FIS\target\site\apidocs\type-search-index.js = 1621431290596
